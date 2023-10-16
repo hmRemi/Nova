@@ -1,0 +1,417 @@
+[
+    {
+        "id": "323521929174581252",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "323521929174581252",
+            "username": "aron0102",
+            "global_name": "Aron",
+            "avatar": "d271260f9d9b21472684edd4a360cdc1",
+            "discriminator": "0",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-15T11:10:09.549000+00:00"
+    },
+    {
+        "id": "442492851436388354",
+        "type": 4,
+        "nickname": null,
+        "user": {
+            "id": "442492851436388354",
+            "username": "loganmc",
+            "global_name": "Logan",
+            "avatar": "adf6cad00f9305a2f8f036102b01bd0f",
+            "discriminator": "0",
+            "public_flags": 640,
+            "avatar_decoration_data": null
+        }
+    },
+    {
+        "id": "598369025655046174",
+        "type": 3,
+        "nickname": null,
+        "user": {
+            "id": "598369025655046174",
+            "username": "rishi_rox",
+            "global_name": "Stan",
+            "avatar": "2f1215225f9f90bfa34e1d5f0c2300d4",
+            "discriminator": "0",
+            "public_flags": 128,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-24T17:34:55.826000+00:00"
+    },
+    {
+        "id": "668868560558358530",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "668868560558358530",
+            "username": "themythhimself",
+            "global_name": "TheMythHimself",
+            "avatar": "c138fd79bf32492505589dc3a976872a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-15T08:09:20.463000+00:00"
+    },
+    {
+        "id": "696792204169052280",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "696792204169052280",
+            "username": "nrushxnizar",
+            "global_name": "Nrushx Nizar",
+            "avatar": "c1e0ac77fd43e39695a686fd27d6e860",
+            "discriminator": "0",
+            "public_flags": 128,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-16T06:09:58.313000+00:00"
+    },
+    {
+        "id": "737375651430006876",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "737375651430006876",
+            "username": "derek_the_foodie",
+            "global_name": "Derek1143",
+            "avatar": "cae954c62c9992263b2f272241230532",
+            "discriminator": "0",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-15T08:07:10.818000+00:00"
+    },
+    {
+        "id": "764337633337409578",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "764337633337409578",
+            "username": "lionsboywill23",
+            "global_name": "\u2022CLASSIFIED",
+            "avatar": "bc4a506d00400728d2747349b2da636e",
+            "discriminator": "0",
+            "public_flags": 64,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-23T04:47:43.548000+00:00"
+    },
+    {
+        "id": "795314894538014741",
+        "type": 4,
+        "nickname": null,
+        "user": {
+            "id": "795314894538014741",
+            "username": "juicyorange",
+            "global_name": "JuicyOrange",
+            "avatar": "d06c4d21744eb03249c67506d747ee17",
+            "discriminator": "0",
+            "public_flags": 4194368,
+            "avatar_decoration_data": null
+        }
+    },
+    {
+        "id": "833703207536164924",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "833703207536164924",
+            "username": "SERKANNNNMUWH",
+            "global_name": null,
+            "avatar": null,
+            "discriminator": "2508",
+            "public_flags": 256,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-17T10:43:10.260000+00:00"
+    },
+    {
+        "id": "866510980225040466",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "866510980225040466",
+            "username": "the_python",
+            "global_name": "die Python",
+            "avatar": "7bf60fc59f387ea2b0ccd931a2e64ca0",
+            "discriminator": "0",
+            "public_flags": 64,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-08-31T17:25:38.730000+00:00"
+    },
+    {
+        "id": "884302535517696011",
+        "type": 4,
+        "nickname": null,
+        "user": {
+            "id": "884302535517696011",
+            "username": "zsld",
+            "global_name": "quit",
+            "avatar": "e1667bcde029d73a7b3d30442e0dc196",
+            "discriminator": "0",
+            "public_flags": 256,
+            "avatar_decoration_data": null
+        }
+    },
+    {
+        "id": "973553510316642315",
+        "type": 3,
+        "nickname": null,
+        "user": {
+            "id": "973553510316642315",
+            "username": "Ch3ck_M7_Bio",
+            "global_name": "Chk-My-B!0graphy",
+            "avatar": null,
+            "discriminator": "6970",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-06-04T21:10:57.044000+00:00"
+    },
+    {
+        "id": "1006196159682969681",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "1006196159682969681",
+            "username": "\ud83d\udda4Laine\ud83d\udda4",
+            "global_name": "Laine\ud83d\udda4\ud83d\udda4",
+            "avatar": "de99cbb2d8258ae541cfa4f0d4fc1d21",
+            "discriminator": "1591",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-22T11:59:59.164000+00:00"
+    },
+    {
+        "id": "1034531618951528488",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "1034531618951528488",
+            "username": "devuxious",
+            "global_name": "Devuxious",
+            "avatar": "a_dace8015b3a73ca3d5991ee6842c004a",
+            "discriminator": "0",
+            "public_flags": 4194368,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-08-31T20:40:19.922000+00:00"
+    },
+    {
+        "id": "1046646735604297738",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "1046646735604297738",
+            "username": "lucifers2089",
+            "global_name": "Lucifer's",
+            "avatar": "426ab0f1702a8916ca953574cc8747e0",
+            "discriminator": "0",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-16T16:43:45.269000+00:00"
+    },
+    {
+        "id": "1050221586797580392",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "1050221586797580392",
+            "username": "luke33",
+            "global_name": "Luke",
+            "avatar": "04382207439fd8fb6832006567a0ed46",
+            "discriminator": "0",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-15T11:26:19.700000+00:00"
+    },
+    {
+        "id": "1052640638904061992",
+        "type": 2,
+        "nickname": null,
+        "user": {
+            "id": "1052640638904061992",
+            "username": "apela666",
+            "global_name": "Jishan.",
+            "avatar": "a_b6432171bf1011ee81f0f076c03a2274",
+            "discriminator": "0",
+            "public_flags": 64,
+            "avatar_decoration_data": null
+        }
+    },
+    {
+        "id": "1061950077381382175",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "1061950077381382175",
+            "username": "jack_rose7060",
+            "global_name": "jack rose",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-16T09:40:22.298000+00:00"
+    },
+    {
+        "id": "1063928144920322149",
+        "type": 3,
+        "nickname": null,
+        "user": {
+            "id": "1063928144920322149",
+            "username": "mehmetyoci",
+            "global_name": null,
+            "avatar": null,
+            "discriminator": "0375",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-06-11T11:51:14.531000+00:00"
+    },
+    {
+        "id": "1071405807259897946",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "1071405807259897946",
+            "username": "NINJARO",
+            "global_name": null,
+            "avatar": "d4db552cd95205c48ed633a355e1b517",
+            "discriminator": "3604",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-23T11:23:13.104000+00:00"
+    },
+    {
+        "id": "1072346013588795413",
+        "type": 4,
+        "nickname": null,
+        "user": {
+            "id": "1072346013588795413",
+            "username": "Deleted User b95a9038",
+            "global_name": null,
+            "avatar": null,
+            "discriminator": "0694",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        }
+    },
+    {
+        "id": "1080399094243151912",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "1080399094243151912",
+            "username": "ekoo",
+            "global_name": null,
+            "avatar": "1628fc11e7961d85181295493426b775",
+            "discriminator": "8347",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-17T01:48:21.058000+00:00"
+    },
+    {
+        "id": "1086317968612405260",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "1086317968612405260",
+            "username": "Troubadour88",
+            "global_name": null,
+            "avatar": "340cfd0fef1ba81cdc3fbd5bff080f24",
+            "discriminator": "7961",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-15T18:23:00.501000+00:00"
+    },
+    {
+        "id": "1088655923993653338",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "1088655923993653338",
+            "username": "advix",
+            "global_name": "dead",
+            "avatar": null,
+            "discriminator": "6684",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-15T11:11:56.234000+00:00"
+    },
+    {
+        "id": "1094332894262087741",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "1094332894262087741",
+            "username": "ok181",
+            "global_name": "Happy Person",
+            "avatar": "50ab0bf3d2f50380727deb0562e9f62c",
+            "discriminator": "0",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-15T07:49:04.714000+00:00"
+    },
+    {
+        "id": "1102973869389779016",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "1102973869389779016",
+            "username": "rxhn",
+            "global_name": null,
+            "avatar": "35676b8d46329606ad1516a898457101",
+            "discriminator": "7485",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-23T08:00:29.393000+00:00"
+    },
+    {
+        "id": "1105911443800457346",
+        "type": 1,
+        "nickname": null,
+        "user": {
+            "id": "1105911443800457346",
+            "username": "Donatch yyvonna",
+            "global_name": null,
+            "avatar": null,
+            "discriminator": "0960",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-05-23T19:19:30.195000+00:00"
+    },
+    {
+        "id": "1114293191517155519",
+        "type": 3,
+        "nickname": null,
+        "user": {
+            "id": "1114293191517155519",
+            "username": "r6vix",
+            "global_name": "r6vix",
+            "avatar": "1628fc11e7961d85181295493426b775",
+            "discriminator": "0",
+            "public_flags": 0,
+            "avatar_decoration_data": null
+        },
+        "since": "2023-06-04T14:24:21.466000+00:00"
+    }
+]
